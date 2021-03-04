@@ -1,0 +1,31 @@
+*{
+    margin: auto;
+}
+#wrapper {
+width: 750px;
+height: 400px;
+margin-top: 10px;
+}
+#content{
+    background-color:white;
+    width: 600px;
+    height: 400px;
+    float: left;
+}
+#right{
+    width: 140px;
+    height: 140px;
+    float: left;
+    margin-left: 10px;
+}
+#right>img{
+    width: 130px;
+    height: 120px;
+    margin-bottom: 10px;
+
+}
+iframe{
+    width: 600px;
+    height: 400px;
+
+}

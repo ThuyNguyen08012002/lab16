@@ -1,0 +1,16 @@
+.detail{
+    width: 100%;
+}
+.detail>.detail-image{
+    width: 40%;
+    float: left;
+    margin: 30px 10px 20px 100px;
+   
+}
+.detail-description{
+width: 40%;
+float: left;
+margin: 10px;
+font-size: 20px;
+
+}
